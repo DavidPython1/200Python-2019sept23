@@ -1,4 +1,5 @@
 print(111/11)
+print(6/8)
 
 # in a script print is needed 
 # the following doesn't do anything
